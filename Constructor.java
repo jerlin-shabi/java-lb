@@ -1,4 +1,4 @@
-class Main{
+class Constructor{
   private String name;
 
   
