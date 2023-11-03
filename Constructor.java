@@ -2,7 +2,7 @@ class Constructor{
   private String name;
 
   
-  Main() {
+  Constructor() {
     System.out.println("Constructor Called:");
     name = "Programiz";
   }
